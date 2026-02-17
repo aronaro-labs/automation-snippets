@@ -1,36 +1,47 @@
 # Automation Snippets
 
-Small, reusable automation components and workflow patterns.
+Small, reusable automation components and workflow patterns used to improve lead capture, enquiry routing, and follow-up.
 
-This repository is used to store practical building blocks that support:
-- lead capture
-- enquiry routing
-- follow-up sequences
-- operational efficiency for SMEs
+This repository focuses on practical building blocks that are fast to deploy and easy to maintain.
 
 ---
 
-## What you’ll find here
+## Typical use cases
 
-- lightweight workflow patterns
-- integration notes (where applicable)
-- templates for follow-up logic
-- repeatable automation checklists
-
-> Note: this repo focuses on practical utility, not heavy engineering.
+- Lead capture → confirmation → follow-up
+- Enquiry routing (right inbox/person, fast response)
+- Booking flow support and reminders
+- Lightweight operational automations for SMEs
 
 ---
 
 ## Principles
 
 - Simple > complex
-- Fast to deploy
-- Clear input/output
+- Clear inputs/outputs
 - Minimal maintenance overhead
+- Reliable defaults and straightforward handover
+
+---
+
+## What’s inside
+
+- Lead capture and enquiry routing patterns
+- Follow-up logic templates (manual + automated)
+- Integration notes (where applicable)
+- Setup and handover checklists
 
 ---
 
 ## Links
 
 - Website: https://aronarolabs.co.uk  
-- LinkedIn: https://www.linkedin.com/company/aronaro-labs-ltd/
+- LinkedIn: https://www.linkedin.com/company/aronaro-labs-ltd/  
+
+---
+
+## Socials (keep this updated)
+
+- YouTube: https://www.youtube.com/@ARONAROLABS  
+- X: https://x.com/aronarolabs  
+- GitHub Org: https://github.com/aronaro-labs  
