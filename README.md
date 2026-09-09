@@ -1,47 +1,51 @@
-# Automation Snippets
+# ARONARO Automation Snippets
 
-Small, reusable automation components and workflow patterns used to improve lead capture, enquiry routing, and follow-up.
+Reusable automation patterns, workflow components and implementation notes developed by ARONARO LABS LTD.
 
-This repository focuses on practical building blocks that are fast to deploy and easy to maintain.
-
----
+This repository supports internal systems, digital products and operational workflows across the wider ARONARO ecosystem.
 
 ## Typical use cases
 
-- Lead capture → confirmation → follow-up
-- Enquiry routing (right inbox/person, fast response)
-- Booking flow support and reminders
-- Lightweight operational automations for SMEs
-
----
+- Workflow automation
+- Data routing and processing
+- Notifications and follow-up logic
+- Content and publishing workflows
+- Operational task automation
+- API and platform integrations
+- AI-assisted workflow components
 
 ## Principles
 
-- Simple > complex
-- Clear inputs/outputs
-- Minimal maintenance overhead
-- Reliable defaults and straightforward handover
+- Simple before complex
+- Clear inputs and outputs
+- Reliable defaults
+- Low maintenance overhead
+- Reusable components
+- Human oversight where appropriate
+- Secure handling of data and credentials
 
----
+## Scope
 
-## What’s inside
+This repository may contain:
 
-- Lead capture and enquiry routing patterns
-- Follow-up logic templates (manual + automated)
-- Integration notes (where applicable)
-- Setup and handover checklists
+- Reusable workflow patterns
+- Automation logic examples
+- Integration notes
+- Setup and implementation checklists
+- Technical reference material
+- AI-assisted automation concepts
 
----
+No credentials, private customer data or production secrets should be stored in this public repository.
+
+## ARONARO LABS LTD
+
+ARONARO LABS LTD is a UK technology, publishing and digital products company behind ARONARO Health™ and AUREVA AI®.
 
 ## Links
 
-- Website: https://aronarolabs.co.uk  
-- LinkedIn: https://www.linkedin.com/company/aronaro-labs-ltd/  
-
----
-
-## Socials (keep this updated)
-
-- YouTube: https://www.youtube.com/@ARONAROLABS  
-- X: https://x.com/aronarolabs  
-- GitHub Org: https://github.com/aronaro-labs  
+- Website: https://www.aronarolabs.co.uk
+- LinkedIn: https://www.linkedin.com/company/aronarohealth
+- YouTube: https://www.youtube.com/@aronarohealth
+- Instagram: https://www.instagram.com/aronarohealth/
+- Facebook: https://www.facebook.com/aronarohealth
+- GitHub: https://github.com/aronaro-labs
